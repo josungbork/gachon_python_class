@@ -1,0 +1,2 @@
+select * from citation_db.t_document where ApplicationDate like '2007%' and ApplicationNumber like '%871335';
+

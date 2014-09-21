@@ -1,0 +1,2 @@
+select USSeriesCode,ApplicationID  from uspto_patents.PUBLICATIONS 
+where FileDate like '2007%' and ApplicationID like '%162320';
