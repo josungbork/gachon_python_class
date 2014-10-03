@@ -9,6 +9,7 @@ i = 0
 for subject in midterm_score:
 	for score in subject:
 		student_score[i] += score	 
+		print "alfksdklfjslkdjfl --------- ", student_score[i]
 		i += 1
 	i = 0
 else:
