@@ -1,0 +1,8 @@
+value = 5 
+result = value
+while 1 < value:
+	value = value - 1
+	result = result * value
+
+print result
+
