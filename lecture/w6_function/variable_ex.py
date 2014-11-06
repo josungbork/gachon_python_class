@@ -1,5 +1,5 @@
 def calculate(x, y):
-	print "Test: ", total
+	total = x + y
 	print "In Function"
 	print "a:", str(a), "b:", str(b), "a+b:", str(a+b) 
 	print "total :", str(total)
