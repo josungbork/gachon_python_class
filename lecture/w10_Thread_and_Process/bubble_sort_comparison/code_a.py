@@ -17,16 +17,17 @@ def sort(randomlist):
 
 randomlist=[]
 
-size = 5000
+size = 2000
 print "The unsorted list is as follows:"
 
-listsize=range(1,size+1)
-randomlist=random.sample(listsize,size)
+for i in range(5):
+	listsize=range(1,size+1)
+	randomlist=random.sample(listsize,size)
 
-print randomlist
-print""
-print"The sorted list is as follows:"
+	print randomlist
+	print""
+	print"The sorted list is as follows:"
 
-after=sort(randomlist)
-print"The total number off swap is",number
-print""
+	after=sort(randomlist)
+	print"The total number off swap is",number
+	print""
