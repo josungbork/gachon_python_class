@@ -19,15 +19,12 @@ def swap_reference (sort_list):
 threads = []
 
 size_of_list=2000
-unsorted_list=[]
 
 for i in range(5):
 	list=range(1,size_of_list+1)
 	random.shuffle(list)
 	print"The unsorted list is as follow:",list
-
 	t = threading.Thread(target = swap_reference, args=(list,))
-	threads.append(t) 
 	t.start()
 
 

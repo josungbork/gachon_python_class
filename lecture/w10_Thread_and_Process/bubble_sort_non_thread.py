@@ -16,7 +16,6 @@ def swap_reference (sort_list):
 
 
 size_of_list=2000
-unsorted_list=[]
 
 for i in range(5):
 	list=range(1,size_of_list+1)

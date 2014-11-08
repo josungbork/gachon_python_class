@@ -23,7 +23,6 @@ class BubbleSortProcess (Process):
 threads = []
 
 size_of_list=2000
-unsorted_list=[]
 
 if __name__=='__main__':
 	for i in range(5):

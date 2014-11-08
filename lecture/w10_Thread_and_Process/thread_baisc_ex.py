@@ -2,7 +2,6 @@ import threading
 from time import ctime
 
 def worker(number):
-	"""thread worker function"""
 	for i in range(10):
 		print ctime(), number, "Working - ", i,"times"
 	return
