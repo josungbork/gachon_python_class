@@ -2,13 +2,13 @@
 
 __author__ = 'Sungchul Choi'
 
-from Subject import English
-from Subject import Korea
-from Subject import Math
+from subject import english
+from subject import korea
+from subject import math
 
-from Person import Professor
-from Person import Student
-from Exam import Midterm
+from person import professor
+from person import student
+from exam import midterm
 
 def setStudentInformation(myMidterm):
     number_of_students = int(raw_input("입력할 학생수는 몇명입니까? "))
@@ -16,7 +16,7 @@ def setStudentInformation(myMidterm):
         print i+1, "번째 학생의 정보를 입력해주세요."
         name = raw_input("이름을 입력해주세요: ")
         student_id = raw_input("학번을 입력해주세요: ")
-        myStudent = Student.Studnet(name, student_id, Math.Math(), English.English(), Korea.Korea())
+        myStudent = student.Studnet(name, student_id, math.Math(), english.English(), korea.Korea())
         myMidterm.appendStudent(myStudent)
 
     print "정보 입력을 완료하였습니다"
@@ -77,8 +77,8 @@ print "이름과 직번을 입력하세요."
 name = raw_input("이름 :")
 person_id = raw_input("직번 :")
 
-myMidterm = Midterm.Midterm()
-myProfessor = Professor.Professor(name , person_id, myMidterm)
+myMidterm = midterm.Midterm()
+myProfessor = professor.Professor(name , person_id, myMidterm)
 
 user_input = "9999"
 while user_input != "0":

@@ -1,7 +1,7 @@
 __author__ = 'blissray'
 
 
-from Person import Person
+from person import Person
 
 class Professor(Person):
     def __init__(self, name, id, midterm):

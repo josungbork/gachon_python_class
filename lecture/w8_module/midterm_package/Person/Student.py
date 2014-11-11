@@ -1,16 +1,16 @@
 __author__ = 'blissray'
 
-from Person import Person
-from Subject import Math
-from Subject import English
-from Subject import Korea
+from person import Person
+from subject import math
+from subject import english
+from subject import korea
 
 class Studnet(Person):
 
     def __init__(self):
         pass
 
-    def __init__(self, name="", id="", math=Math.Math(), eng=English.English(), kor=Korea.Korea()):
+    def __init__(self, name="", id="", math=math.Math(), eng=english.English(), kor=korea.Korea()):
         Person.__init__(self, name, id)
         self.math = math
         self.eng = eng

@@ -1,6 +1,6 @@
 __author__ = 'Sungchul Choi'
 
-from Subject import Subject
+from subject import Subject
 
 class Korea(Subject):
 

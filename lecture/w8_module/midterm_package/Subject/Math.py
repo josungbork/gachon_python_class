@@ -1,6 +1,6 @@
 __author__ = 'Sungchul Choi'
 
-from Subject import Subject
+from subject import Subject
 
 class Math(Subject):
     def __init__(self, number_of_correct_answer=0):

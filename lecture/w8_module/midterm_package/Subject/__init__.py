@@ -1,8 +1,8 @@
 __author__ = 'Sungchul Choi'
 
-__all__=['Subject','Math','English','Korea']
-import Subject
-import Math
-import English
-import Korea
+__all__=['subject','math','english','korea']
+import subject
+import math
+import english
+import korea
 
