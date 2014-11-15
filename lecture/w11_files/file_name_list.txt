@@ -1,0 +1,206 @@
+Current Directory :./gachon_python_class
+Directory List
+lecture	0
+quiz_code	0
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture
+Directory List
+w10_Thread_and_Process	1
+w1_what_is_python	1
+w2_python_basic	1
+w3_loop_and_control	1
+w4_data_type	1
+w5_data_type_structure	1
+w6_function	1
+w7_class	1
+w8_module	1
+w9	1
+
+File List List
+exception_handling.py	79KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w10_Thread_and_Process
+Directory List
+bubble_sort_comparison	12
+
+File List List
+BubbleSort.class	1486KB
+BubbleSort.java	1313KB
+bubble_sort_gevent.py	642KB
+bubble_sort_non_thread.py	549KB
+bubble_sort_process.py	768KB
+bubble_sort_process.pyc	1678KB
+bubble_sort_thread.py	636KB
+process_basic.ex.py	319KB
+process_basic.ex.pyc	781KB
+thread_baisc_ex.py	270KB
+thread_baisc_ex_2.py	442KB
+thread_basic_code.py	130KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w10_Thread_and_Process\bubble_sort_comparison
+File List List
+code_a.py	585KB
+code_b.py	579KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w1_what_is_python
+File List List
+yesterday.txt	653KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w2_python_basic
+File List List
+celsisus_converter.py	308KB
+comma_ex.py	45KB
+float_input.py	50KB
+myfirstpython.py	76KB
+s_argu_test.py	152KB
+web_input.py	110KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w3_loop_and_control
+File List List
+1.txt	2KB
+2.txt	6KB
+for_multiplication.py	218KB
+gradetest.py	192KB
+gradetest_elif.py	361KB
+guess20.py	417KB
+iftest.py	152KB
+loop_and_variable.py	137KB
+loop_debug.py	634KB
+mulitiplication_game.py	494KB
+studentlevel.py	389KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w4_data_type
+File List List
+.abc.py.swp	12288KB
+1.txt	2KB
+2.txt	10KB
+abc.py	314KB
+average_ex.py	388KB
+dynamic_score_matrix.py	2680KB
+esc_ex.py	84KB
+math_ex.py	138KB
+score_matrix.py	466KB
+stack_ex.py	141KB
+stack_ex.py.html	1086KB
+string_size_test.py	82KB
+yesterday.song	764KB
+yesterday_count_ex.py	388KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w5_data_type_structure
+File List List
+1.txt	2KB
+2.txt	10KB
+average_ex.py	388KB
+esc_ex.py	84KB
+math_ex.py	138KB
+yesterday.song	764KB
+yesterday_count_ex.py	288KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w6_function
+File List List
+baseball_function_version.py	2334KB
+call_by_test.py	102KB
+function_ex.py	372KB
+function_guide_1.py	166KB
+function_guide_2.py	270KB
+function_guide_3.py	531KB
+ham_egg.py	96KB
+math_function_ex.py	99KB
+recursive_ex.py	151KB
+spam.py	94KB
+swap.py	412KB
+type_of_function.py	248KB
+variable_ex.py	347KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w7_class
+File List List
+class_ex.py	281KB
+class_inheritance.py	1125KB
+class_init.py	419KB
+class_polymorphism.py	495KB
+class_str.py	292KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w8_module
+Directory List
+midterm_package	5
+
+File List List
+client.py	183KB
+format_ex.py	295KB
+my_module.py	76KB
+my_module.pyc	408KB
+split_ex.py	173KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w8_module\midterm_package
+Directory List
+exam	2
+person	2
+subject	2
+
+File List List
+__init__.py	108KB
+__main__.py	3960KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w8_module\midterm_package\exam
+File List List
+midterm.py	1205KB
+midterm.pyc	2571KB
+__init__.py	61KB
+__init__.pyc	281KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w8_module\midterm_package\person
+File List List
+person.py	235KB
+person.pyc	1151KB
+professor.py	245KB
+professor.pyc	1028KB
+student.py	734KB
+student.pyc	2387KB
+__init__.py	119KB
+__init__.pyc	357KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w8_module\midterm_package\subject
+File List List
+english.py	206KB
+english.pyc	827KB
+korea.py	202KB
+korea.pyc	817KB
+math.py	202KB
+math.pyc	812KB
+subject.py	466KB
+subject.pyc	1296KB
+__init__.py	131KB
+__init__.pyc	386KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\lecture\w9
+File List List
+exception_basic.py	173KB
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\quiz_code
+Directory List
+popquiz_1	0
+
+------------------------------------------------------------
+Current Directory :./gachon_python_class\quiz_code\popquiz_1
+File List List
+binaray_counter.py	143KB
+factorial_counter.py	103KB
+
+------------------------------------------------------------
