@@ -10,5 +10,5 @@ class Person:
         return self.name
 
     def getID(self):
-        return self.id
+        return self.person_id
 
