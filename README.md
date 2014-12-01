@@ -17,7 +17,8 @@
 5. 기초 수학 연산 및 콘솔 입출력
 6. 조건문과 반복문
 7. 파이썬 자료형: 수치, 문자열, 리스트, 데이터 구조
-- Part 1: http://www.slideshare.net/blissray/w-37771905
+
+※ Part 1: http://www.slideshare.net/blissray/w-37771905
  
 
 <h5> 파이썬 활용 </h5>
@@ -28,7 +29,8 @@
 12. CSV와 XML
 13. 웹 다루기
 14. 파일 & 웹 다루기 연습
-- Part 2: http://www.slideshare.net/blissray/w-part-2
+
+※ Part 2: http://www.slideshare.net/blissray/w-part-2
 
 <h4> 참고 자료</h4>
 본 자료는 아래 자료를 참고하여 작성되었습니다.
