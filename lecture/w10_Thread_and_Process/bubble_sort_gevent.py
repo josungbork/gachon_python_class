@@ -12,7 +12,7 @@ def swap (sort_list):
 				sort_list[j-1] = temp
 				time+=1
 	
-	print"The sorted list is as follow:"
+	print"End to Sort"
 	print"The total number of swap is ",time
 
 monkey.patch_all()
@@ -23,7 +23,7 @@ for i in number_of_loop:
 	size_of_list=1000
 	list=range(1,size_of_list+1)
 	random.shuffle(list)
-	print"The unsorted list is as follow:"
+	print"Start to Sort"
 	pool.spawn(swap, list)
 	
 

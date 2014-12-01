@@ -14,5 +14,5 @@ with open ("customers.csv") as customer_data:
 
 print "Header :\t", data_header
 for i in range(0,10):
-	print "Data",i,":\t\t",customer_list[i]
+	print "Data",i,":\t\t",customer_list[i][0]
 print len(customer_list)
