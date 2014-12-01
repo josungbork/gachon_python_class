@@ -10,8 +10,8 @@
 - Part 2: http://www.slideshare.net/blissray/w-part-2
 - 가천대 기술경영연구실(TeamLab)에서 작성함
 
-<h4> 코드 구성</h4>
-<h5> 파이썬 기초 </h5>
+<h4> 코드 구성</h4> 
+<h5> 파이썬 기초 </h5> http://www.slideshare.net/blissray/w-37771905
 1. 프로그래밍 개요 및 산업공학
 2. 파이썬 개요
 3. 작업환경 및 VI 에디터 활용
@@ -21,7 +21,7 @@
 7. 파이썬 자료형: 수치, 문자열, 리스트, 데이터 구조
  
 
-<h5> 파이썬 활용 </h5>
+<h5> 파이썬 활용 </h5> http://www.slideshare.net/blissray/w-part-2
 8. 통합 개발 환경 (IDE)
 9. 함수, 클래스, 모듈과 패키지
 10. 예외처리, 쓰레드와 프로세스
