@@ -19,7 +19,7 @@
 7. 파이썬 자료형: 수치, 문자열, 리스트, 데이터 구조
 
 ※ Part 1: http://www.slideshare.net/blissray/w-37771905
- 
+
 
 <h5> 파이썬 활용 </h5>
 8. 통합 개발 환경 (IDE)
@@ -32,6 +32,19 @@
 
 ※ Part 2: http://www.slideshare.net/blissray/w-part-2
 
+
 <h4> 참고 자료</h4>
 본 자료는 아래 자료를 참고하여 작성되었습니다.
 이 자리를 빌어 다시한번 감사의 말씀드립니다.
+- 박응용 지음, 점프 투 파이썬, 2014, link:https://wikidocs.net/book/1
+- 워렌 산데,카터 산데 지음 / 김승범, 박준표 옮김 , 헬로 파이썬 프로그래밍, 2014
+- 이강성 지음, 파이썬 바이블3, 2013
+- 더그 헬먼 지음 / 정승원 옮김, 예제로 배우는 파이썬 표준 라이브러리, 2012
+- 웨슬리 천 지음 / 오현석, 서형국 옮김, 코어 파이썬 애플리케이션 프로그램밍, 2014
+- 하용호, 스타트업 데이터를 어떻게 봐라봐야 할까, 2014, url: http://www.slideshare.net/yongho/ss-32267675
+- 강철, [PyConKR 2014] 30분만에 따라하는 동시성 스크래퍼, 2014, url: http://www.slideshare.net/cornchz/pyconkr-2014-30
+- 정민영, [2D4]Python에서의 동시성_병렬성, 2014,  url: http://www.slideshare.net/deview/2d4python
+
+이외에도 다양한 자료를 참고하였습니다. 혹시 제대로 소스표기가 안된항목이 있다면 연락주시기 바랍니다.
+
+가천대학교 산업경영공학과 / 최성철 교수 / sc82.choi@gachon.ac.kr 
