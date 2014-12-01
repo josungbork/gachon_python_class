@@ -20,7 +20,7 @@
 - Part 1: http://www.slideshare.net/blissray/w-37771905
  
 
-<h5> 파이썬 활용 </h5> http://www.slideshare.net/blissray/w-part-2
+<h5> 파이썬 활용 </h5>
 8. 통합 개발 환경 (IDE)
 9. 함수, 클래스, 모듈과 패키지
 10. 예외처리, 쓰레드와 프로세스
